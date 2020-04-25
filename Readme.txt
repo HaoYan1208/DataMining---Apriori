@@ -1,11 +1,11 @@
 
-# CSCI4144-A4-RuleMining
+# RuleMining
 
-CSCI4144-A4-RuleMining is a Python3 file for implementing Apriori Alogrithm 
+RuleMining is a Python3 file for implementing Apriori Alogrithm 
 
 ## Installation
 
-Upload "RuleMining.py", "Play_Tennis_Data_Set.csv" to bluenose server/environment
+Upload "RuleMining.py", "Play_Tennis_Data_Set.csv" to proper server/environment
 
 ## Usage
 
